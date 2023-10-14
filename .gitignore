@@ -1,6 +1,8 @@
 # Dirs
 /doc
 /data
-
+/.idea
+/*.pth
+/*.npy
 # Archives
 train_dataset_train.zip
