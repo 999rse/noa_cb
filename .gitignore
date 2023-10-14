@@ -4,5 +4,6 @@
 /.idea
 /*.pth
 /*.npy
+/_*
 # Archives
 train_dataset_train.zip
