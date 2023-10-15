@@ -34,7 +34,9 @@ $ pip install -r requirements.txt
 
 ## Использование
 
-**TODO**
+Файл с кодом в формате Jupiter Notebook - [playbook.ipynb](playbook.ipynb)
+
+Заменить пути к файлам на актуальные, после чего запустить все ячейки.
 
 ## Лицензия
 
